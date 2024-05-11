@@ -1,0 +1,1 @@
+// to store constant variables like DB name
